@@ -1,1 +1,1 @@
-# full-stack-open-2022-part1
+Solutions for Exercise 1.1 to 1.14
